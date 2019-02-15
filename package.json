@@ -1,0 +1,27 @@
+{
+  "name": "tbot",
+  "version": "1.0.0",
+  "description": "Twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "tbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flankerad/TBot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "bot"
+  ],
+  "author": "flanker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flankerad/TBot/issues"
+  },
+  "homepage": "https://github.com/flankerad/TBot#readme",
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "twit": "^2.2.11"
+  }
+}
