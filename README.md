@@ -1,3 +1,3 @@
-# TBot
-Twitter Bot for testing API's
+# Twitter Bot<br>
+Testing Twitter api's<br>
 Sends messages to followers, filtering tweets based on hastags
